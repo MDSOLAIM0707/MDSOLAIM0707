@@ -1,4 +1,4 @@
-![logo](https://github.com/MDSOLAIM0707/MDSOLAIM0707/blob/main/banner2.0.png)
+
 <h1 align="center">Hi 👋, I'm md solaim zaki</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
